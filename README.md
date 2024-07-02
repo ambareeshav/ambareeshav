@@ -1,1 +1,4 @@
-Hey, I am Ambareesha and a few things that interest me academically are sensor and weather data or any sort of data that cointains the randomness of nature. A few others thing i like are astrophotography and music.
+Hey, I am Ambareesha and a few things that interest me are 
+- generative ai
+- large language models
+- data analytics 
